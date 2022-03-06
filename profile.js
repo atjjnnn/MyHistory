@@ -1,4 +1,4 @@
 
-const click_func = () => {
-    console.log("click")
+function buttonClick(){
+    alert('Click');
 }
